@@ -58,8 +58,8 @@ plausible:
 # A picture of you, square(!), at least 180x180 pixels, more is better. Recommended file size < 100 KB.
 # Leave empty for generic placeholder image.
 # You can use your GitHub image:
-avatar: "https://media-exp1.licdn.com/dms/image/C5603AQHPmOXujt-XiA/profile-displayphoto-shrink_800_800/0/1571427209698?e=1630540800&v=beta&t=d1T3RPUvMOGZwwrzzF_aIHQP3cm5VP_V_ozUe8E0SbI"
-#avatar: "images/E_N.jpg"
+#avatar: ""
+avatar: "images/E_N.jpg"
 #avatar:
 
 
