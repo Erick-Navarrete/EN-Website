@@ -150,7 +150,7 @@ links:
       name: Resume
       show: true
       href: https://drive.google.com/file/d/1GuiYTtW3IHiOM0TdWx0rLg5tSbts7KHQ/view?usp=sharing
-      icon: fas fa-book-open
+      icon: fas fa-file
   - email:
       name: Email
       show: true
