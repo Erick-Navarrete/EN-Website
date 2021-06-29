@@ -147,9 +147,9 @@ links:
       href: https://YOUR_TUMBLR_USERNAME.tumblr.com/
       icon: fab fa-tumblr
   - blog:
-      name: Blog
+      name: Resume
       show: true
-      href: http://host.domain/your_blog
+      href: https://drive.google.com/file/d/1GuiYTtW3IHiOM0TdWx0rLg5tSbts7KHQ/view?usp=sharing
       icon: fas fa-book-open
   - email:
       name: Email
